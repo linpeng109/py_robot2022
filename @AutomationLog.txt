@@ -1,0 +1,462 @@
+DESKTOP-7FS9PAV
+    IDE ATA/ATAPI 控制器
+        标准 SATA AHCI 控制器
+    WSD 打印提供程序
+        HPB0227A4FBFAC(HP Laser MFP 131 133 135-138)
+    安全设备
+        受信任的平台模块 2.0
+    处理器
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+    磁盘驱动器
+        KINGSTON SNVS2000G
+    存储控制器
+        Microsoft VHD 环回控制器
+        Microsoft 存储空间控制器
+        标准 NVM Express 控制器
+    打印队列
+        Fax
+        HPB0227A4FBFAC(HP Laser MFP 131 133 135-138)
+        Microsoft Print to PDF
+        Microsoft XPS Document Writer
+        OneNote for Windows 10
+        根打印队列
+    打印机
+        Microsoft IPP Class Driver
+    电池
+        Microsoft AC 适配器
+        Microsoft ACPI 兼容的控制方法电池
+    固件
+        设备固件
+        设备固件
+        系统固件
+    计算机
+        基于 ACPI x64 的电脑
+    监视器
+        通用即插即用监视器
+        通用即插即用监视器
+    键盘
+        HID Keyboard Device
+        HID Keyboard Device
+        HID Keyboard Device
+        PS/2 标准键盘
+    蓝牙
+        Bluetooth Device (RFCOMM Protocol TDI)
+        G603
+        G913 TKL
+        Microsoft 蓝牙 LE 枚举器
+        Microsoft 蓝牙枚举器
+        T30
+        T30 Avrcp 传输
+        蓝牙 LE 通用属性服务
+        蓝牙 LE 通用属性服务
+        蓝牙 LE 通用属性服务
+        蓝牙 LE 通用属性服务
+        英特尔(R) 无线 Bluetooth(R)
+    其他设备
+        BT Sideband device
+        Detection Verification
+        Digital microphone device
+        USB device
+        未知设备
+    人机接口设备
+        HID Button over Interrupt Driver
+        I2C HID 设备
+        Logitech G HUB Virtual Keyboard
+        Microsoft Input Configuration Device
+        USB 输入设备
+        USB 输入设备
+        USB 输入设备
+        USB 输入设备
+        USB 输入设备
+        USB 输入设备
+        符合 HID 标准的触摸板
+        符合 HID 标准的供应商定义设备
+        符合 HID 标准的供应商定义设备
+        符合 HID 标准的供应商定义设备
+        符合 HID 标准的供应商定义设备
+        符合 HID 标准的供应商定义设备
+        符合 HID 标准的供应商定义设备
+        符合 HID 标准的供应商定义设备
+        符合 HID 标准的无线通信控制
+        符合 HID 标准的系统控制器
+        符合 HID 标准的系统控制器
+        符合 HID 标准的用户控制设备
+        符合 HID 标准的用户控制设备
+        符合 HID 标准的用户控制设备
+        符合 HID 标准的用户控制设备
+        符合蓝牙低能耗 GATT 的 HID 设备
+        符合蓝牙低能耗 GATT 的 HID 设备
+        蓝牙 HID 设备
+    软件设备
+        HPB0227A4FBFAC (HP Laser MFP 131 133 135-138)
+        HPB0227A4FBFAC(HP Laser MFP 131 133 135-138)
+        HPB0227A4FBFAC(HP Laser MFP 131 133 135-138)
+        Microsoft Device Association Root Enumerator
+        Microsoft GS 波表合成器
+        Microsoft RRAS Root Enumerator
+    软件组件
+        Intel(R) Dynamic Application Loader Host Interface
+        Intel(R) Graphics Command Center
+        Intel(R) Graphics Control Panel
+        Intel(R) iCLS Client
+        Intel(R) Management and Security Application Local Management
+    声音、视频和游戏控制器
+        Nahimic mirroring device
+        Realtek High Definition Audio
+        T30 Stereo
+        英特尔(R) 显示器音频
+    鼠标和其他指针设备
+        HID-compliant mouse
+        HID-compliant mouse
+        HID-compliant mouse
+    通用串行总线控制器
+        Intel(R) USB 3.10 可扩展主机控制器 - 1.20 (Microsoft)
+        Intel(R) USB 3.20 可扩展主机控制器 - 1.20 (Microsoft)
+        USB Composite Device
+        USB Composite Device
+        USB Composite Device
+        USB 根集线器(USB 3.0)
+        USB 根集线器(USB 3.0)
+    图像设备
+        HPB0227A4FBFAC(HP Laser MFP 131 133 135-138)
+    网络适配器
+        Bluetooth Device (Personal Area Network)
+        Hyper-V Virtual Ethernet Adapter
+        Hyper-V Virtual Ethernet Adapter #2
+        Hyper-V Virtual Ethernet Adapter #3
+        Intel(R) Wi-Fi 6 AX201 160MHz
+        Microsoft Network Adapter Multiplexor Driver
+        Realtek PCIe GbE Family Controller
+        TAP-Windows Adapter V9 for OpenVPN Connect
+        WAN Miniport (IKEv2)
+        WAN Miniport (IP)
+        WAN Miniport (IPv6)
+        WAN Miniport (L2TP)
+        WAN Miniport (Network Monitor)
+        WAN Miniport (PPPOE)
+        WAN Miniport (PPTP)
+        WAN Miniport (SSTP)
+    系统设备
+        ACPI 处理器聚合器
+        ACPI 电源按钮
+        ACPI 盖子
+        ACPI 固定功能按钮
+        ACPI 唤醒警报
+        ACPI 热区域
+        Intel(R) Dynamic Tuning Processor Participant
+        Intel(R) GNA Scoring Accelerator module
+        Intel(R) LPC Controller (HM570) - 438B
+        Intel(R) Management Engine Interface #1
+        Intel(R) PCI Express Root Port #13 - 43B4
+        Intel(R) PEG10 - 9A01
+        Intel(R) PEG60 - 9A0F
+        Intel(R) Power Engine Plug-in
+        Intel(R) Serial IO GPIO Host Controller - INT34C6
+        Intel(R) Serial IO I2C Host Controller - 43E8
+        Intel(R) Shared SRAM - 43EF
+        Intel(R) SMBus - 43A3
+        Intel(R) SPI (flash) Controller - 43A4
+        Intel(R) Tigerlake 遥测聚合器驱动程序
+        Logitech G HUB Virtual Bus Enumerator
+        Microsoft ACPI 兼容的嵌入式控制器
+        Microsoft ACPI-Compliant System
+        Microsoft Hyper-V PCI 服务器
+        Microsoft Hyper-V 虚拟磁盘服务器
+        Microsoft Hyper-V 虚拟化基础结构驱动程序
+        Microsoft Hyper-V 虚拟机总线提供程序
+        Microsoft RemoteFX Synth3D VSP Driver
+        Microsoft System Management BIOS Driver
+        Microsoft UEFI 兼容系统
+        Microsoft Windows Management Interface for ACPI
+        Microsoft Windows Management Interface for ACPI
+        Microsoft Windows Management Interface for ACPI
+        Microsoft 虚拟驱动器枚举器
+        NDIS 虚拟网络适配器枚举器
+        PCI Express 根复合体
+        PCI 标准主机 CPU 桥
+        T30 Hands-Free AG
+        UMBus Root Bus Enumerator
+        充电均衡驱动程序
+        复合总线枚举器
+        高精度事件计时器
+        即插即用软件设备枚举器
+        可编程中断控制器
+        数值数据处理器
+        系统计时器
+        英特尔(R)智音技术音频控制器
+        英特尔® 智音技术 OED
+        远程桌面设备重定向程序总线
+    显示适配器
+        Intel(R) UHD Graphics
+        NVIDIA GeForce RTX 3050 Ti Laptop GPU
+    音频输入和输出
+        耳机 (T30 Stereo)
+        扬声器 (Realtek High Definition Audio)
+    照相机
+        HD Webcam
+Scroll by SetScrollPercent
+Scroll to top by SendKeys Ctrl+Home
+Scroll to bottom by SendKeys Ctrl+End
+Scroll to top by WheelUp
+Scroll to bottom by WheelDown
+Scroll by DragDrop
+
+Press any key to exitDESKTOP-7FS9PAV
+    IDE ATA/ATAPI 控制器
+        标准 SATA AHCI 控制器
+    WSD 打印提供程序
+        HPB0227A4FBFAC(HP Laser MFP 131 133 135-138)
+    安全设备
+        受信任的平台模块 2.0
+    处理器
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+        11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+    磁盘驱动器
+        KINGSTON SNVS2000G
+    存储控制器
+        Microsoft VHD 环回控制器
+        Microsoft 存储空间控制器
+        标准 NVM Express 控制器
+    打印队列
+        Fax
+        HPB0227A4FBFAC(HP Laser MFP 131 133 135-138)
+        Microsoft Print to PDF
+        Microsoft XPS Document Writer
+        OneNote for Windows 10
+        根打印队列
+    打印机
+        Microsoft IPP Class Driver
+    电池
+        Microsoft AC 适配器
+        Microsoft ACPI 兼容的控制方法电池
+    固件
+        设备固件
+        设备固件
+        系统固件
+    计算机
+        基于 ACPI x64 的电脑
+    监视器
+        通用即插即用监视器
+        通用即插即用监视器
+    键盘
+        HID Keyboard Device
+        HID Keyboard Device
+        HID Keyboard Device
+        PS/2 标准键盘
+    蓝牙
+        Bluetooth Device (RFCOMM Protocol TDI)
+        G603
+        G913 TKL
+        Microsoft 蓝牙 LE 枚举器
+        Microsoft 蓝牙枚举器
+        T30
+        T30 Avrcp 传输
+        蓝牙 LE 通用属性服务
+        蓝牙 LE 通用属性服务
+        蓝牙 LE 通用属性服务
+        蓝牙 LE 通用属性服务
+        英特尔(R) 无线 Bluetooth(R)
+    其他设备
+        BT Sideband device
+        Detection Verification
+        Digital microphone device
+        USB device
+        未知设备
+    人机接口设备
+        HID Button over Interrupt Driver
+        I2C HID 设备
+        Logitech G HUB Virtual Keyboard
+        Microsoft Input Configuration Device
+        USB 输入设备
+        USB 输入设备
+        USB 输入设备
+        USB 输入设备
+        USB 输入设备
+        USB 输入设备
+        符合 HID 标准的触摸板
+        符合 HID 标准的供应商定义设备
+        符合 HID 标准的供应商定义设备
+        符合 HID 标准的供应商定义设备
+        符合 HID 标准的供应商定义设备
+        符合 HID 标准的供应商定义设备
+        符合 HID 标准的供应商定义设备
+        符合 HID 标准的供应商定义设备
+        符合 HID 标准的无线通信控制
+        符合 HID 标准的系统控制器
+        符合 HID 标准的系统控制器
+        符合 HID 标准的用户控制设备
+        符合 HID 标准的用户控制设备
+        符合 HID 标准的用户控制设备
+        符合 HID 标准的用户控制设备
+        符合蓝牙低能耗 GATT 的 HID 设备
+        符合蓝牙低能耗 GATT 的 HID 设备
+        蓝牙 HID 设备
+    软件设备
+        HPB0227A4FBFAC (HP Laser MFP 131 133 135-138)
+        HPB0227A4FBFAC(HP Laser MFP 131 133 135-138)
+        HPB0227A4FBFAC(HP Laser MFP 131 133 135-138)
+        Microsoft Device Association Root Enumerator
+        Microsoft GS 波表合成器
+        Microsoft RRAS Root Enumerator
+    软件组件
+        Intel(R) Dynamic Application Loader Host Interface
+        Intel(R) Graphics Command Center
+        Intel(R) Graphics Control Panel
+        Intel(R) iCLS Client
+        Intel(R) Management and Security Application Local Management
+    声音、视频和游戏控制器
+        Nahimic mirroring device
+        Realtek High Definition Audio
+        T30 Stereo
+        英特尔(R) 显示器音频
+    鼠标和其他指针设备
+        HID-compliant mouse
+        HID-compliant mouse
+        HID-compliant mouse
+    通用串行总线控制器
+        Intel(R) USB 3.10 可扩展主机控制器 - 1.20 (Microsoft)
+        Intel(R) USB 3.20 可扩展主机控制器 - 1.20 (Microsoft)
+        USB Composite Device
+        USB Composite Device
+        USB Composite Device
+        USB 根集线器(USB 3.0)
+        USB 根集线器(USB 3.0)
+    图像设备
+        HPB0227A4FBFAC(HP Laser MFP 131 133 135-138)
+    网络适配器
+        Bluetooth Device (Personal Area Network)
+        Hyper-V Virtual Ethernet Adapter
+        Hyper-V Virtual Ethernet Adapter #2
+        Hyper-V Virtual Ethernet Adapter #3
+        Intel(R) Wi-Fi 6 AX201 160MHz
+        Microsoft Network Adapter Multiplexor Driver
+        Realtek PCIe GbE Family Controller
+        TAP-Windows Adapter V9 for OpenVPN Connect
+        WAN Miniport (IKEv2)
+        WAN Miniport (IP)
+        WAN Miniport (IPv6)
+        WAN Miniport (L2TP)
+        WAN Miniport (Network Monitor)
+        WAN Miniport (PPPOE)
+        WAN Miniport (PPTP)
+        WAN Miniport (SSTP)
+    系统设备
+        ACPI 处理器聚合器
+        ACPI 电源按钮
+        ACPI 盖子
+        ACPI 固定功能按钮
+        ACPI 唤醒警报
+        ACPI 热区域
+        Intel(R) Dynamic Tuning Processor Participant
+        Intel(R) GNA Scoring Accelerator module
+        Intel(R) LPC Controller (HM570) - 438B
+        Intel(R) Management Engine Interface #1
+        Intel(R) PCI Express Root Port #13 - 43B4
+        Intel(R) PEG10 - 9A01
+        Intel(R) PEG60 - 9A0F
+        Intel(R) Power Engine Plug-in
+        Intel(R) Serial IO GPIO Host Controller - INT34C6
+        Intel(R) Serial IO I2C Host Controller - 43E8
+        Intel(R) Shared SRAM - 43EF
+        Intel(R) SMBus - 43A3
+        Intel(R) SPI (flash) Controller - 43A4
+        Intel(R) Tigerlake 遥测聚合器驱动程序
+        Logitech G HUB Virtual Bus Enumerator
+        Microsoft ACPI 兼容的嵌入式控制器
+        Microsoft ACPI-Compliant System
+        Microsoft Hyper-V PCI 服务器
+        Microsoft Hyper-V 虚拟磁盘服务器
+        Microsoft Hyper-V 虚拟化基础结构驱动程序
+        Microsoft Hyper-V 虚拟机总线提供程序
+        Microsoft RemoteFX Synth3D VSP Driver
+        Microsoft System Management BIOS Driver
+        Microsoft UEFI 兼容系统
+        Microsoft Windows Management Interface for ACPI
+        Microsoft Windows Management Interface for ACPI
+        Microsoft Windows Management Interface for ACPI
+        Microsoft 虚拟驱动器枚举器
+        NDIS 虚拟网络适配器枚举器
+        PCI Express 根复合体
+        PCI 标准主机 CPU 桥
+        T30 Hands-Free AG
+        UMBus Root Bus Enumerator
+        充电均衡驱动程序
+        复合总线枚举器
+        高精度事件计时器
+        即插即用软件设备枚举器
+        可编程中断控制器
+        数值数据处理器
+        系统计时器
+        英特尔(R)智音技术音频控制器
+        英特尔® 智音技术 OED
+        远程桌面设备重定向程序总线
+    显示适配器
+        Intel(R) UHD Graphics
+        NVIDIA GeForce RTX 3050 Ti Laptop GPU
+    音频输入和输出
+        耳机 (T30 Stereo)
+        扬声器 (Realtek High Definition Audio)
+    照相机
+        HD Webcam
+Scroll by SetScrollPercent
+Scroll to top by SendKeys Ctrl+Home
+Scroll to bottom by SendKeys Ctrl+End
+Scroll to top by WheelUp
+Scroll to bottom by WheelDown
+Scroll by DragDrop
+
+Press any key to exit2022-10-10 10:57:48.952 py_calculator.py[137] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x00000120A7564670>, Desc: 'Calculator Window', ControlType: WindowControl} does not exist.
+2022-10-10 10:57:50.159 py_calculator.py[139] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x00000120A7564670>, Desc: 'Calculator Window', ControlType: WindowControl} TraverseControls: 4, SearchTime: 1.158s[10:57:49.012117 - 10:57:50.159678]
+2022-10-10 10:57:50.727 py_calculator.py[140] CalcOnWindows10 -> {AutomationId: 'TogglePaneButton', ControlType: ButtonControl} TraverseControls: 84, SearchTime: 0.060s[10:57:50.680485 - 10:57:50.727899]
+2022-10-10 10:57:52.188 py_calculator.py[141] CalcOnWindows10 -> {AutomationId: 'Scientific', ControlType: ListItemControl} TraverseControls: 96, SearchTime: 0.042s[10:57:52.146632 - 10:57:52.188752]
+2022-10-10 10:57:52.986 py_calculator.py[142] CalcOnWindows10 -> {AutomationId: 'clearButton', ControlType: ButtonControl} TraverseControls: 55, SearchTime: 0.030s[10:57:52.955810 - 10:57:52.986208]
+2022-10-10 10:58:10.433 py_calculator.py[158] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x00000120A7564670>, Desc: 'Calculator Window', ControlType: WindowControl} TraverseControls: 4, SearchTime: 0.004s[10:58:10.433320 - 10:58:10.433320]
+2022-10-10 10:58:10.969 py_calculator.py[158] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x00000120A7564670>, Desc: 'Calculator Window', ControlType: WindowControl} TraverseControls: 4, SearchTime: 0.017s[10:58:10.953914 - 10:58:10.969405]
+2022-10-10 10:58:11.446 py_calculator.py[158] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x00000120A7564670>, Desc: 'Calculator Window', ControlType: WindowControl} TraverseControls: 4, SearchTime: 0.008s[10:58:11.446673 - 10:58:11.446673]
+2022-10-10 10:58:11.456 py_calculator.py[158] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x00000120A7564670>, Desc: 'Calculator Window', ControlType: WindowControl} does not disappear.
+2022-10-10 10:58:13.003 py_calculator.py[160] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x00000120A7564670>, Desc: 'Calculator Window', ControlType: WindowControl} does not exist.
+
+Press any key to exit2022-10-10 11:01:51.057 py_calculator.py[137] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x0000027188674670>, Desc: 'Calculator Window', ControlType: WindowControl} does not exist.
+2022-10-10 11:01:51.619 py_calculator.py[139] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x0000027188674670>, Desc: 'Calculator Window', ControlType: WindowControl} TraverseControls: 4, SearchTime: 0.549s[11:01:51.078128 - 11:01:51.619291]
+2022-10-10 11:01:52.192 py_calculator.py[140] CalcOnWindows10 -> {AutomationId: 'TogglePaneButton', ControlType: ButtonControl} TraverseControls: 121, SearchTime: 0.067s[11:01:52.130017 - 11:01:52.192409]
+2022-10-10 11:01:53.554 py_calculator.py[141] CalcOnWindows10 -> {AutomationId: 'Scientific', ControlType: ListItemControl} TraverseControls: 133, SearchTime: 0.052s[11:01:53.502418 - 11:01:53.554077]
+2022-10-10 11:01:54.345 py_calculator.py[142] CalcOnWindows10 -> {AutomationId: 'clearButton', ControlType: ButtonControl} TraverseControls: 55, SearchTime: 0.027s[11:01:54.329807 - 11:01:54.345430]
+2022-10-10 11:02:11.715 py_calculator.py[158] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x0000027188674670>, Desc: 'Calculator Window', ControlType: WindowControl} TraverseControls: 4, SearchTime: 0.010s[11:02:11.699715 - 11:02:11.715329]
+2022-10-10 11:02:12.234 py_calculator.py[158] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x0000027188674670>, Desc: 'Calculator Window', ControlType: WindowControl} TraverseControls: 4, SearchTime: 0.006s[11:02:12.234083 - 11:02:12.234083]
+2022-10-10 11:02:12.733 py_calculator.py[158] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x0000027188674670>, Desc: 'Calculator Window', ControlType: WindowControl} TraverseControls: 4, SearchTime: 0.016s[11:02:12.718247 - 11:02:12.733764]
+2022-10-10 11:02:12.741 py_calculator.py[158] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x0000027188674670>, Desc: 'Calculator Window', ControlType: WindowControl} does not disappear.
+2022-10-10 11:02:14.275 py_calculator.py[160] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x0000027188674670>, Desc: 'Calculator Window', ControlType: WindowControl} does not exist.
+
+Press any key to exit2022-10-10 11:03:12.265 py_calculator.py[87] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x000001916AEB05E0>, Desc: 'Calculator Window', ControlType: WindowControl} does not exist.
+2022-10-10 11:03:12.837 py_calculator.py[89] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x000001916AEB05E0>, Desc: 'Calculator Window', ControlType: WindowControl} TraverseControls: 4, SearchTime: 0.549s[11:03:12.288614 - 11:03:12.837965]
+2022-10-10 11:03:13.427 py_calculator.py[90] CalcOnWindows10 -> {AutomationId: 'TogglePaneButton', ControlType: ButtonControl} TraverseControls: 121, SearchTime: 0.074s[11:03:13.354253 - 11:03:13.427826]
+2022-10-10 11:03:14.941 py_calculator.py[91] CalcOnWindows10 -> {AutomationId: 'Scientific', ControlType: ListItemControl} TraverseControls: 133, SearchTime: 0.057s[11:03:14.884903 - 11:03:14.941226]
+2022-10-10 11:03:15.736 py_calculator.py[92] CalcOnWindows10 -> {AutomationId: 'clearButton', ControlType: ButtonControl} TraverseControls: 55, SearchTime: 0.029s[11:03:15.720708 - 11:03:15.736323]
+2022-10-10 11:03:33.179 py_calculator.py[108] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x000001916AEB05E0>, Desc: 'Calculator Window', ControlType: WindowControl} TraverseControls: 4, SearchTime: 0.008s[11:03:33.179836 - 11:03:33.179836]
+2022-10-10 11:03:33.707 py_calculator.py[108] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x000001916AEB05E0>, Desc: 'Calculator Window', ControlType: WindowControl} TraverseControls: 4, SearchTime: 0.009s[11:03:33.707272 - 11:03:33.707272]
+2022-10-10 11:03:34.197 py_calculator.py[108] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x000001916AEB05E0>, Desc: 'Calculator Window', ControlType: WindowControl} TraverseControls: 4, SearchTime: 0.006s[11:03:34.197508 - 11:03:34.197508]
+2022-10-10 11:03:34.205 py_calculator.py[108] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x000001916AEB05E0>, Desc: 'Calculator Window', ControlType: WindowControl} does not disappear.
+2022-10-10 11:03:35.754 py_calculator.py[110] CalcOnWindows10 -> {ClassName: 'ApplicationFrameWindow', Compare: <function CalcOnWindows10.<locals>.<lambda> at 0x000001916AEB05E0>, Desc: 'Calculator Window', ControlType: WindowControl} does not exist.
+
+Press any key to exit

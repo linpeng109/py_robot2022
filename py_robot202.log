@@ -1,0 +1,92 @@
+2022-Oct-10 11:50:39.785 [INFO] [py_scaner.py:64] nmap_cmd:nmap -A -sV -T5 -p18080 172.22.225.228
+2022-Oct-10 11:52:14.269 [INFO] [py_scaner.py:64] nmap_cmd:nmap -A -sV -T5 -p18080 172.22.225.228
+2022-Oct-10 11:52:14.282 [INFO] [transport.py:1874] Connected (version 2.0, client OpenSSH_9.0p1)
+2022-Oct-10 11:52:14.366 [INFO] [transport.py:1874] Authentication (password) successful!
+2022-Oct-10 11:52:29.678 [INFO] [py_scaner.py:68] Starting Nmap 7.92 ( https://nmap.org ) at 2022-10-10 11:52 CST
+
+2022-Oct-10 11:52:29.679 [INFO] [py_scaner.py:68] Nmap scan report for ubuntu-Virtual-Machine.mshome.net (172.22.225.228)
+Host is up (0.00039s latency).
+
+PORT      STATE SERVICE VERSION
+18080/tcp open  http    Apache httpd 2.4.38 ((Debian))
+|_http-server-header: Apache/2.4.38 (Debian)
+|_http-title: Laravel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 13.18 seconds
+
+2022-Oct-10 12:27:31.410 [INFO] [py_scaner.py:64] nmap_cmd:nmap -A -sV -T5 -p18080 172.22.225.228
+2022-Oct-10 12:27:31.423 [INFO] [transport.py:1874] Connected (version 2.0, client OpenSSH_9.0p1)
+2022-Oct-10 12:27:31.501 [INFO] [transport.py:1874] Authentication (password) successful!
+2022-Oct-10 12:27:44.602 [INFO] [py_scaner.py:68] Starting Nmap 7.92 ( https://nmap.org ) at 2022-10-10 12:27 CST
+
+2022-Oct-10 12:27:44.603 [INFO] [py_scaner.py:68] Nmap scan report for ubuntu-Virtual-Machine.mshome.net (172.22.225.228)
+Host is up (0.00041s latency).
+
+PORT      STATE SERVICE VERSION
+18080/tcp open  http    Jetty 9.4.18.v20190429
+| http-robots.txt: 2 disallowed entries 
+|_/repository/ /service/
+|_http-title: Nexus Repository Manager
+|_http-server-header: Nexus/3.21.1-01 (OSS)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 11.63 seconds
+
+2022-Oct-11 09:11:41.676 [INFO] [py_scaner.py:64] nmap_cmd:nmap -A -sV -T5 -p18080 172.22.225.228
+2022-Oct-11 09:11:41.690 [INFO] [transport.py:1874] Connected (version 2.0, client OpenSSH_9.0p1)
+2022-Oct-11 09:11:41.773 [INFO] [transport.py:1874] Authentication (password) successful!
+2022-Oct-11 09:12:05.755 [INFO] [py_scaner.py:68] Starting Nmap 7.93 ( https://nmap.org ) at 2022-10-11 09:11 CST
+
+2022-Oct-11 09:12:05.756 [INFO] [py_scaner.py:68] Nmap scan report for ubuntu-Virtual-Machine.mshome.net (172.22.225.228)
+Host is up (0.00041s latency).
+
+PORT      STATE SERVICE  VERSION
+18080/tcp open  ssl/http Apache Tomcat 9.0.31
+| ssl-cert: Subject: commonName=ofbiz-vm.apache.org/organizationName=Apache Software Fundation/stateOrProvinceName=DE/countryName=US
+| Not valid before: 2014-05-30T08:43:19
+|_Not valid after:  2024-05-27T08:43:19
+|_ssl-date: 2022-10-11T01:12:04+00:00; 0s from scanner time.
+|_http-title: HTTP Status 404 \xE2\x80\x93 Not Found
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 22.55 seconds
+
+2022-Oct-11 09:57:27.966 [INFO] [py_scaner.py:64] nmap_cmd:nmap -A -sV -T5 -p18080 172.22.225.228
+2022-Oct-11 09:57:27.979 [INFO] [transport.py:1874] Connected (version 2.0, client OpenSSH_9.0p1)
+2022-Oct-11 09:57:28.058 [INFO] [transport.py:1874] Authentication (password) successful!
+2022-Oct-11 09:57:52.037 [INFO] [py_scaner.py:68] Starting Nmap 7.93 ( https://nmap.org ) at 2022-10-11 09:57 CST
+
+2022-Oct-11 09:57:52.038 [INFO] [py_scaner.py:68] Nmap scan report for ubuntu-Virtual-Machine.mshome.net (172.22.225.228)
+Host is up (0.00047s latency).
+
+PORT      STATE SERVICE  VERSION
+18080/tcp open  ssl/http Apache Tomcat 9.0.31
+|_http-title: HTTP Status 404 \xE2\x80\x93 Not Found
+|_ssl-date: 2022-10-11T01:57:50+00:00; 0s from scanner time.
+| ssl-cert: Subject: commonName=ofbiz-vm.apache.org/organizationName=Apache Software Fundation/stateOrProvinceName=DE/countryName=US
+| Not valid before: 2014-05-30T08:43:19
+|_Not valid after:  2024-05-27T08:43:19
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 22.55 seconds
+
+2022-Oct-11 10:02:03.034 [INFO] [py_scaner.py:64] nmap_cmd:nmap -A -sV -T5 -p18080 172.22.225.228
+2022-Oct-11 10:02:03.048 [INFO] [transport.py:1874] Connected (version 2.0, client OpenSSH_9.0p1)
+2022-Oct-11 10:02:03.128 [INFO] [transport.py:1874] Authentication (password) successful!
+2022-Oct-11 10:02:27.088 [INFO] [py_scaner.py:68] Starting Nmap 7.93 ( https://nmap.org ) at 2022-10-11 10:02 CST
+
+2022-Oct-11 10:02:27.088 [INFO] [py_scaner.py:68] Nmap scan report for ubuntu-Virtual-Machine.mshome.net (172.22.225.228)
+Host is up (0.00058s latency).
+
+PORT      STATE SERVICE  VERSION
+18080/tcp open  ssl/http Apache Tomcat 9.0.31
+|_http-title: HTTP Status 404 \xE2\x80\x93 Not Found
+|_ssl-date: 2022-10-11T02:02:25+00:00; 0s from scanner time.
+| ssl-cert: Subject: commonName=ofbiz-vm.apache.org/organizationName=Apache Software Fundation/stateOrProvinceName=DE/countryName=US
+| Not valid before: 2014-05-30T08:43:19
+|_Not valid after:  2024-05-27T08:43:19
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 22.54 seconds
+
