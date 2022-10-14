@@ -2,8 +2,6 @@ import logging
 import sys
 from logging.handlers import RotatingFileHandler
 
-import psutil as psutil
-
 from py_config import ConfigFactory
 
 
@@ -34,13 +32,3 @@ class LoggerFactory(logging.Logger):
         __logger.setLevel(self.cfg.getint('default', 'logger_level'))
         return __logger
 
-
-if __name__ == '__main__':
-    config = ConfigFactory(config_file='../py_robot.ini').get_config()
-    logger = LoggerFactory(config_factory=config).get_logger()
-    logger.debug('Hello world!')
-    for i in range(100):
-        cpuper = psutil.cpu_percent()
-        mem = psutil.virtual_memory()
-        line = f'cpu:{cpuper}% mem:{mem} '
-        logger.debug(line)

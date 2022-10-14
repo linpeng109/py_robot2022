@@ -4,16 +4,14 @@ from py_logging import LoggerFactory
 from paramiko import Transport
 
 # 自动扫描机器人
-
-
 class Scanner():
     def __init__(self, config, logger) -> None:
         self.config = config
         self.logger = logger
-        self.hostname = self.config.get('msf', 'hostname')
-        self.username = self.config.get('msf', 'username')
-        self.password = self.config.get('msf', 'password')
-        self.port = self.config.getint('msf', 'port')
+        self.hostname = self.config.get('kali', 'hostname')
+        self.username = self.config.get('kali', 'username')
+        self.password = self.config.get('kali', 'password')
+        self.port = self.config.getint('kali', 'port')
         self.buffersize = 40960
 
     # 等待

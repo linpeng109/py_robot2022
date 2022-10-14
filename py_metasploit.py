@@ -1,5 +1,3 @@
-
-from doctest import script_from_examples
 import time
 
 from pymetasploit3.msfrpc import MsfRpcClient
